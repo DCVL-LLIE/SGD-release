@@ -1,3 +1,3 @@
 # SGD-release
 ## Result
-![..](./fig4_(b).pdf)
+![..](SGD-release/fig4_(b).pdf)
