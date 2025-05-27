@@ -1,3 +1,3 @@
 # SGD-release
 ## Result
-![..](SGD-release/Fig4_(b).pdf)
+![..](figures/Fig4.svg)
