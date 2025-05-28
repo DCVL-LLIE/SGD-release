@@ -1,3 +1,3 @@
 # SGD-release
 ## Result
-![..](figures/Fig4.svg)
+![..](figures/Fig.svg)
