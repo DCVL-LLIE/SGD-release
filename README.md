@@ -1,5 +1,5 @@
 # SGD-release
 (The codes will be uploaded after the submitted paper is accepted)
-## Experimental Results
+## Results
+Results of low-light image enhancement by the proposed method on LOL-v1 (1st row), LOL-v2-real (2nd row), and MIT-Adobe FiveK (3rd row) datasets.
 ![..](figures/Fig.svg)
-[Fig4_(b).pdf](https://github.com/user-attachments/files/20483278/Fig4_.b.pdf)
