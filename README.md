@@ -1,4 +1,4 @@
-# 🌙 SVD-Guided Diffusion for Training-Free Low-Light Image Enhancement
+# 💡 SVD-Guided Diffusion for Training-Free Low-Light Image Enhancement
 
 This repository provides the official PyTorch implementation of the paper:  
 **"SVD-Guided Diffusion for Training-Free Low-Light Image Enhancement"**  
