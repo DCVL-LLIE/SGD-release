@@ -11,7 +11,7 @@ $ conda env create -f environment.yml
 ```
 ## Run 
 ```
-python main.py --config llve.yml --path_y ./dataset -i ./result
+$ python main.py --config llve.yml --path_y ./dataset -i ./result
 ```
 
 ## Results
