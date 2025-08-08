@@ -16,7 +16,7 @@ Install the required dependencies via conda:
 
 ```bash
 conda env create -f environment.yml
-conda activate FourierDiff
+conda activate SGD-release
 ```
 
 ---
@@ -63,5 +63,4 @@ If you find this work helpful, please consider citing:
 
 If you have any questions or issues, feel free to reach out:
 
-- **Jingi Kim**: [your-email@example.com]  
-- **Wonjun Kim**: [prof-email@example.com]
+- **Jingi Kim**: [jingi0614@naver.com]  
