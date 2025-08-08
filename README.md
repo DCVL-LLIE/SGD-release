@@ -6,14 +6,13 @@ Jingi Kim and Wonjun Kim (Corresponding Author)
 
 ## Installation
 ### Enviorment setting
-'''
-
+```
 $ conda env create -f environment.yml
-'''
+```
 ## Run 
-'''
+```
 python main.py --config llve.yml --path_y ./dataset -i ./result
-'''
+```
 
 ## Results
 ### Qualitative results
