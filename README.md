@@ -63,4 +63,4 @@ If you find this work helpful, please consider citing:
 
 If you have any questions or issues, feel free to reach out:
 
-- **Jingi Kim**: [jingi0614@naver.com]  
+- **Jingi Kim**: [jingi0614@konkuk.ac.kr]  
