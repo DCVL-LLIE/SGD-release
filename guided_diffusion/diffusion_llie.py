@@ -306,8 +306,7 @@ class Diffusion(object):
                         x0_t = (x0_t - x0_t.min()) / (x0_t.max() - x0_t.min())
                         _,x0_t_s,_ = svd_decomposition((x0_t))
                         w = blip_getting_score(processor, blip_model, sentence_model, x0_t)
-                        # x0_t_hat = svd_reconstruction(y_u, w*x0_t_s+(1-w/2)*y_s, y_v)
-                        x0_t_hat = svd_reconstruction(y_u, w*x0_t_s+(1-w)*y_s, y_v)
+                        x0_t_hat = svd_reconstruction(y_u, w*x0_t_s+(1-w/2)*y_s, y_v)
 
                         # DDNM
                         if sigma_t >= at_next*sigma_y:
