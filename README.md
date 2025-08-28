@@ -53,7 +53,10 @@ If you find this work helpful, please consider citing:
   title={SVD-Guided Diffusion for Training-Free Low-Light Image Enhancement},
   author={Kim, Jingi and Kim, Wonjun},
   journal={IEEE Signal Processing Letters},
-  year={2025}
+  year={2025},
+  volume={32},
+  pages={3245-3249},
+  doi={10.1109/LSP.2025.3597558}
 }
 ```
 
