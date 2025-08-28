@@ -1,10 +1,12 @@
 # 💡 SVD-Guided Diffusion for Training-Free Low-Light Image Enhancement
 
 This repository provides the official PyTorch implementation of the paper:  
-**"SVD-Guided Diffusion for Training-Free Low-Light Image Enhancement"**  
+**["SVD-Guided Diffusion for Training-Free Low-Light Image Enhancement"](https://ieeexplore.ieee.org/document/11122300?source=authoralert)**
+
+Gun Ryu and [Wonjun Kim (Corresponding Author)](https://sites.google.com/view/dcvl)
 by **Jingi Kim** and **Wonjun Kim (Corresponding Author)**  
 
-📄 *Accepted to IEEE Signal Processing Letters (SPL), 2025*
+**IEEE Signal Processing Letters**, vol. 32, pp. 3245–3249, 2025.
 
 ---
 
